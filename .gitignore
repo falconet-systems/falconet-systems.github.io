@@ -1,0 +1,46 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Logs
+logs
+*.log
+npm-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+node_modules
+
+# Intellij IDEA
+.idea
+*.iml
+
+*.js~
+
+# All backup files
+*~
